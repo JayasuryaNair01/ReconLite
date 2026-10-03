@@ -148,6 +148,7 @@ def show_banner():
 |_|  \_\___|\___\___/|_| |_|______|_|\__\___|
 {Colors.RESET}
   {Colors.BOLD}ReconLite - Fast Multi-Threaded Recon Toolkit{Colors.RESET}
+  {Colors.YELLOW}[!] Authorized security testing and educational use only.{Colors.RESET}
   ==============================================
   1. Subdomain Enumeration
   2. Directory / File Discovery
